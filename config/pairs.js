@@ -1,0 +1,13 @@
+module.exports = [
+  "EURUSD","GBPUSD","AUDUSD","NZDUSD",
+  "USDJPY","USDCAD","USDCHF",
+  "EURGBP","EURJPY","GBPJPY","AUDJPY","CADJPY",
+  "CHFJPY","NZDJPY",
+  "EURAUD","GBPAUD","GBPNZD",
+  "AUDCAD","AUDCHF","NZDCAD",
+  "CADCHF",
+
+  // 🔥 ADDED
+  "EURCHF",
+  "EURCAD"
+];
